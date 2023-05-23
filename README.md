@@ -1,2 +1,1 @@
-# MULTIDIMENSIONAL-DATA-ANALYSIS-USING-CATEGORICAL-DATA
-MULTIDIMENSIONAL DATA ANALYSIS USING CATEGORICAL DATA ANALYSIS IN PYTHON
+## Multi-dimensional data analysis is an informative analysis of data which takes many relationships into account.
